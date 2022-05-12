@@ -1,4 +1,4 @@
-package Pratice_1;
+package Pratice1;
 import java.util.Scanner;
 public class calculateNote {
     public static void main(String[] args) {

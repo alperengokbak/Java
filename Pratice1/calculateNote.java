@@ -31,7 +31,7 @@ public class calculateNote {
         avarage = sum/6;
         System.out.println("Your avarage of notes:" + avarage);
 
-        result = (avarage > 60 || avarage == 60) ? "Passed!" : "Flunked...";
+        result = (avarage > 60 || avarage == 60) ? "Passed!" : "Flunked!!";
         System.out.println(result);
     }
 }

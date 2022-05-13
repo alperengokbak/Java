@@ -2,7 +2,7 @@
 
 ## Calculate Note' Avarage
 
-### Hello Everyone, I want to share a examples what I did in bootcamp activity.
+### Hello Everyone, I want to share examples what I did in bootcamp activity.
 
 - First practice is about calculating your notes' avarage.
 - Second one is about how to calculate the vat price of the product you purchased is.

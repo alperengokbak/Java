@@ -15,12 +15,12 @@ public class findhypotenuse {
         System.out.print("Now, Enter Second Edge: ");
         longEdge2 = input.nextInt();
 
+        input.close();
+
         hypotenuse = (longEdge1*longEdge1) + (longEdge2*longEdge2);
         System.out.println("Square Of Hypotenuse:" + Math.sqrt(hypotenuse));
 
         fieldFormula = (longEdge1*longEdge2)/2;
         System.out.println("Field Of Right Triangle" + fieldFormula);
-
-        input.close();
     }
 }

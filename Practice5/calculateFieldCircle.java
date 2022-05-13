@@ -10,12 +10,12 @@ public class calculateFieldCircle {
         System.out.print("Enter valid radius: ");
         radius = input.nextDouble();
 
+        input.close();
+
         field = 𝜋* radius* radius;
         area = 2* 𝜋* radius;
 
         System.out.println("Field Of Circle: " + field);
         System.out.println("Area Of Circle: " + area);
-
-        input.close();
     }
 }

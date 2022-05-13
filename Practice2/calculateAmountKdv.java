@@ -10,6 +10,7 @@ public class calculateAmountKdv {
         double money, amountKdv, kdv, rateOfKdv = 0.18, rateOfKdv2 = 0.08;
         System.out.print("Enter amount of your money: ");
         money = input.nextDouble();
+        input.close();
 
         if(money > 0 && money < 1000){
             System.out.println("Rate of KDV: " + rateOfKdv);
@@ -26,7 +27,5 @@ public class calculateAmountKdv {
             System.out.println("Amount of KDV: " + kdv);
         }
         System.out.println("Money: " + money);
-
-        input.close();
     }
 }

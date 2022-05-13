@@ -10,12 +10,12 @@ public class CalculateTaxiMetres {
         System.out.print("Enter distance type of Km: ");
         distanceKm = input.nextDouble();
 
+        input.close();
+
         totalWage = (distanceKm * perKm) + beginningWage;
         System.out.println("Your total fee: " + totalWage);
 
         totalWage = (totalWage < 20) ? 20 : totalWage;     // You must pay 20 even if the minimum wage is less than 20..
         System.out.println("Totally: " + totalWage);
-
-        input.close();
     }
 }

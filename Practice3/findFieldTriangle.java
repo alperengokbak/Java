@@ -17,12 +17,12 @@ public class findFieldTriangle {
         System.out.print("Enter Third Edge: ");
         edge3 = input.nextInt();
 
+        input.close();
+
         u = (edge1+edge2+edge3) / 2;
         areaTriangle = 2*u ;
         fieldTriangle = u * (u - edge1)* (u - edge2) * (u - edge3);
         System.out.println("Area Of Triangle: " + areaTriangle);
         System.out.println("Field Of Triangle: " + Math.sqrt(fieldTriangle));
-
-        input.close();
     }
 }

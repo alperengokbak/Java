@@ -33,5 +33,7 @@ public class calculateNote {
 
         result = (avarage > 60 || avarage == 60) ? "Passed!" : "Flunked!!";
         System.out.println(result);
+
+        input.close();
     }
 }

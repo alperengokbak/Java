@@ -22,5 +22,7 @@ public class findFieldTriangle {
         fieldTriangle = u * (u - edge1)* (u - edge2) * (u - edge3);
         System.out.println("Area Of Triangle: " + areaTriangle);
         System.out.println("Field Of Triangle: " + Math.sqrt(fieldTriangle));
+
+        input.close();
     }
 }

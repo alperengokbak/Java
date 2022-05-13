@@ -20,5 +20,7 @@ public class findhypotenuse {
 
         fieldFormula = (longEdge1*longEdge2)/2;
         System.out.println("Field Of Right Triangle" + fieldFormula);
+
+        input.close();
     }
 }

@@ -26,5 +26,7 @@ public class calculateAmountKdv {
             System.out.println("Amount of KDV: " + kdv);
         }
         System.out.println("Money: " + money);
+
+        input.close();
     }
 }

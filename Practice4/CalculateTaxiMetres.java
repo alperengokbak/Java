@@ -15,5 +15,7 @@ public class CalculateTaxiMetres {
 
         totalWage = (totalWage < 20) ? 20 : totalWage;     // You must pay 20 even if the minimum wage is less than 20..
         System.out.println("Totally: " + totalWage);
+
+        input.close();
     }
 }

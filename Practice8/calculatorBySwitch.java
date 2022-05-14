@@ -26,7 +26,11 @@ public class calculatorBySwitch {
                 System.out.println("Result: " + (num1 - num2));
                 break;
             case 3:
-                System.out.println("Result: " + (num1 / num2));
+                if(num2 != 0){
+                    System.out.println("Result: " + (num1 / num2));
+                }else{
+                    System.out.println("Any number cannot divide zero!!!");
+                }
                 break;
             case 4:
                 System.out.println("Result: " + (num1 * num2));

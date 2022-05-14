@@ -11,6 +11,7 @@
 - We're countinue fifth one. I'm trying to show you how to calculate field of the circle easily with these examples. 
 - Let's continue with how to calculate Body Mass Index. I did it example basically inside of practice 6.
 - The Seventh one can be necessary for your daily routine. I did this program to calculate what you buy in the grocery store and how much you have to pay.
+- Now, I have made calculator with if-else and switch case structure in my eighth practice.
 
 <p>It's my patika.dev account link: [Patika.Dev](https://app.patika.dev/alperengokbak)<p>
 <p>At the same time, you can reach me at the Linkedin: [Linkedin](https://www.linkedin.com/in/alperen-g%C3%B6kbak-68988a225/) <p>

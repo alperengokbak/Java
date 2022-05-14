@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class passStatus {
     public static void main(String[] args) {
         int math, physic, turkish, chemistry, music;
-        double avarage, total = 0;
+        double average, total = 0;
         Scanner input = new Scanner(System.in);
 
         System.out.println("Enter your Notes:");
@@ -37,12 +37,12 @@ public class passStatus {
             total += music;
         }
 
-        avarage = total/5;
+        average = total/5;
 
-        if(avarage <= 55){
-            System.out.println("Unfortunately, your notes' avarage " + avarage + " you flunked");
+        if(average <= 55){
+            System.out.println("Unfortunately, your notes' avarage " + average + " you flunked");
         }else{
-            System.out.println("Congratulations, you passed the class. Your notes' avarage " + avarage);
+            System.out.println("Congratulations, you passed the class. Your notes' avarage " + average);
         }
         input.close();
     }

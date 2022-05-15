@@ -19,7 +19,7 @@
 15. Let's continue with fifteenth. It's like Practice13, but there is a difference, chinese zodiac. Such as normal horoscope, actually the nomenclature is slightly different.
 16. Leap year,you must have heard until this time in somewhere. January days may change over time. This gives the leap year, and I trying to show how to find leap year or not. There are some rules to be leap year. You can check it inside the file.
 17. This time, I've made calculated the average of numbers divisible by both 3 and 4 in Practice17 file.
-18. I've shown you, calculate the sum of even numbers and multiple of four in Practice18.
+18. I've shown you, to calculate the sum of even numbers and multiples of four in Practice18.
 
 It's my patika.dev account link: [PatikaDev](https://app.patika.dev/alperengokbak) <br>
 At the same time, you can reach me at the Linkedin: [Linkedin](https://www.linkedin.com/in/alperen-g%C3%B6kbak-68988a225/)

@@ -19,7 +19,7 @@ public class calculateCostTicket {
 
         totally = distance * percost;
 
-        if(distance > 0 && old > 0 && flightType == 1 || flightType == 2){
+        if(distance > 0 && old > 0 && (flightType == 1 || flightType == 2)){
             if(flightType == 1){
                 if(old < 12){
                     discount = totally * 0.5;

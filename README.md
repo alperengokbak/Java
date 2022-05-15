@@ -13,5 +13,5 @@
 - The Seventh one can be necessary for your daily routine. I did this program to calculate what you buy in the grocery store and how much you have to pay.
 - Now, I have made calculator with if-else and switch case structure in my eighth practice.
 
-<p>It's my patika.dev account link: [Patika.Dev](https://app.patika.dev/alperengokbak)<p>
-<p>At the same time, you can reach me at the Linkedin: [Linkedin](https://www.linkedin.com/in/alperen-g%C3%B6kbak-68988a225/) <p>
+It's my patika.dev account link: [PatikaDev](https://app.patika.dev/alperengokbak) <br>
+At the same time, you can reach me at the Linkedin: [Linkedin](https://www.linkedin.com/in/alperen-g%C3%B6kbak-68988a225/)

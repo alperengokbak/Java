@@ -20,6 +20,8 @@
 16. Leap year,you must have heard until this time in somewhere. January days may change over time. This gives the leap year, and I trying to show how to find leap year or not. There are some rules to be leap year. You can check it inside the file.
 17. This time, I've made calculated the average of numbers divisible by both 3 and 4 in Practice17 file.
 18. I've shown you, to calculate the sum of even numbers and multiples of four in Practice18.
+19. My next practice's showing how to find powers of five and at the same time four. I showed step by step in this practice.
+20. I used method while coding this program. I've used first time in that BootCamp, but absolutely I had already known how to use method.
 
 It's my patika.dev account link: [PatikaDev](https://app.patika.dev/alperengokbak) <br>
 At the same time, you can reach me at the Linkedin: [Linkedin](https://www.linkedin.com/in/alperen-g%C3%B6kbak-68988a225/)

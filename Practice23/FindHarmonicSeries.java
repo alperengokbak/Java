@@ -2,7 +2,7 @@ package Practice23;
 
 import java.util.Scanner;
 
-public class Findharmonicserie {
+public class FindHarmonicSeries {
     public static void main(String[] args) {
         double number;
         double result = 0;

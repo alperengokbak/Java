@@ -51,6 +51,7 @@ public class atmMachine {
         } while (count != 0);
         if(count == 0)
         System.out.println("Your account has been blocked!!");
+        
         input.close();
     }
 }

@@ -24,5 +24,7 @@
 20. I used method while coding this program. I've used first time in that BootCamp, but absolutely I had already known how to use method.
 21. Twenty first practice is about calculating exponent of numbers.
 
-It's my patika.dev account link: [PatikaDev](https://app.patika.dev/alperengokbak) <br>
-At the same time, you can reach me at the Linkedin: [Linkedin](https://www.linkedin.com/in/alperen-g%C3%B6kbak-68988a225/)
+### It's my patika.dev account link: [PatikaDev](https://app.patika.dev/alperengokbak)
+### At the same time, you can reach me at the Linkedin: [Linkedin](https://www.linkedin.com/in/alperen-g%C3%B6kbak-68988a225/)
+
+

@@ -28,7 +28,7 @@
 24. Nested for loops, maybe this one more complicated than twenty-second one. I've used about 4 nested loops and diamond turned out.
 25. I want to show you how to work ATM Machine. What is the back of this process, I've shown you inside Practice25. I've used (loops).
 26. We can see these terms in the Maths lesson. LCM and HCF(The Lowest Common Multiple and The Highest Common Factor), I've made this program two different types; One of them is with the for loops and the other one's while loop. You can check both of them inside Practice26.
-27. That time is about how to find minimum and maximum value of the numbers. I've used "try and cath", "Integer.MIN_VALUE" and "Integer.MAX_VALUE" in this Practice. 
+27. That time is about finding the minimum and maximum values of the numbers. I've used "try and cath", "Integer.MIN_VALUE" and "Integer.MAX_VALUE" in this Practice.  
 
 ### It's my patika.dev account link: [PatikaDev](https://app.patika.dev/alperengokbak)
 ### At the same time, you can reach me at the Linkedin: [Linkedin](https://www.linkedin.com/in/alperen-g%C3%B6kbak-68988a225/)

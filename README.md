@@ -24,6 +24,8 @@
 20. I used method while coding this program. I've used first time in that BootCamp, but absolutely I had already known how to use method.
 21. Twenty first practice is about calculating exponent of numbers.
 22. Today, I've made a program a little bit different from other ones. That is more complicated and includes logical expression. That code is how to find Armstrong Number.
+23. That one's is about how to define harmonic series with the what you select number.
+24. Nested for loops, maybe this one more complicated than twenty-second one. I've used about 4 nested loops and diamond turned out.
 
 ### It's my patika.dev account link: [PatikaDev](https://app.patika.dev/alperengokbak)
 ### At the same time, you can reach me at the Linkedin: [Linkedin](https://www.linkedin.com/in/alperen-g%C3%B6kbak-68988a225/)

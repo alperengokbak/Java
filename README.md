@@ -31,6 +31,7 @@
 27. That time is about finding the minimum and maximum values of the numbers. I've used "try and cath", "Integer.MIN_VALUE" and "Integer.MAX_VALUE" in this Practice. 
 28. It's my twenty-eighth practice. If you want to know which number you entered is Magnificent Number.
 29. One more time I've made a program about "Nested-For-Loops". But this time contains an inverted triangle.
+30. I've made this program to how to find the prime numbers between 1 and 100.
 
 ### It's my patika.dev account link: [PatikaDev](https://app.patika.dev/alperengokbak)
 ### At the same time, you can reach me at the Linkedin: [Linkedin](https://www.linkedin.com/in/alperen-g%C3%B6kbak-68988a225/)

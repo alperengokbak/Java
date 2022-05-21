@@ -30,6 +30,7 @@
 26. We can see these terms in the Maths lesson. LCM and HCF(The Lowest Common Multiple and The Highest Common Factor), I've made this program two different types; One of them is with the for loops and the other one's while loop. You can check both of them inside Practice26.
 27. That time is about finding the minimum and maximum values of the numbers. I've used "try and cath", "Integer.MIN_VALUE" and "Integer.MAX_VALUE" in this Practice. 
 28. It's my twenty-eighth practice. If you want to know which number you entered is Magnificent Number.
+29. One more time I've made a program about "Nested-For-Loops". But this time contains an inverted triangle.
 
 ### It's my patika.dev account link: [PatikaDev](https://app.patika.dev/alperengokbak)
 ### At the same time, you can reach me at the Linkedin: [Linkedin](https://www.linkedin.com/in/alperen-g%C3%B6kbak-68988a225/)

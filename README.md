@@ -33,6 +33,7 @@
 29. One more time I've made a program about "Nested-For-Loops". But this time contains an inverted triangle.
 30. I've made this program to how to find the prime numbers between 1 and 100.
 31. I want to show you how to write "The Fibonacci Series" inside of Practice31.
+32. It's my Thirty-Second practice. I'm going to tell you which numbers are Palindrome and which ones are not. I've used different things named called "Function".
 
 ### It's my patika.dev account link: [PatikaDev](https://app.patika.dev/alperengokbak)
 ### At the same time, you can reach me at the Linkedin: [Linkedin](https://www.linkedin.com/in/alperen-g%C3%B6kbak-68988a225/)

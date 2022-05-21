@@ -1,4 +1,4 @@
-package Practice30;
+package Practice20_39.Practice30;
 
 
 public class findPrimeNumber {

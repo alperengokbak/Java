@@ -34,6 +34,9 @@
 30. I've made this program to how to find the prime numbers between 1 and 100.
 31. I want to show you how to write "The Fibonacci Series" inside of Practice31.
 32. It's my Thirty-Second practice. I'm going to tell you which numbers are Palindrome and which ones are not. I've used different things named called "Function".
+33. I've made up my first recursive function's example. I'm trying to calculate fibonacci series with the recursive function.
+34. This practice is including advanced calculator. There are eight types of processes. Some of them are addition, factorial, power, and more than these.
+35. I've made up examples about exponent numbers. I showed three ways to solve, one of them is with void function, the other one's with int function, and the last one is with a recursive function.
 
 ### It's my patika.dev account link: [PatikaDev](https://app.patika.dev/alperengokbak)
 ### At the same time, you can reach me at the Linkedin: [Linkedin](https://www.linkedin.com/in/alperen-g%C3%B6kbak-68988a225/)

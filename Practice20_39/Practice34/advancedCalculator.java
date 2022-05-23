@@ -84,7 +84,7 @@ public class advancedCalculator {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter base number: ");
         base = input.nextInt();
-        System.out.print("Enter exponenet number: ");
+        System.out.print("Enter exponent of number: ");
         exponent = input.nextInt();
 
         for(int i = 1; i <= exponent; i++){

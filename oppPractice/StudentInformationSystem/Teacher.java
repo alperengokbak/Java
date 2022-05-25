@@ -1,4 +1,4 @@
-package oppPractice.Practice38;
+package oppPractice.StudentInformationSystem;
 
 public class Teacher {
     String fullName;

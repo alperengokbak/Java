@@ -41,9 +41,12 @@ public class Employee {
         return 0;
     }
     public double interest(double sal){
-        double amountIncreased = 0.1;
-        if(this.currentYear - this.hireYear > 5){
-            return sal * amountIncreased;
+        if(this.currentYear - this.hireYear > 3){
+            return sal * 0.1;
+        }else if(this.currentYear - this.hireYear > 5){
+            return sal * 0.12;
+        }else if(this.currentYear - this.hireYear > 10){
+            return sal * 0.15;
         }
         return 0;
     }

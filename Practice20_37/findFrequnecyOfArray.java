@@ -2,25 +2,23 @@ package Practice20_37;
 
 import java.util.Scanner;
 
-public class sortVariable {
-    static void sortArray(int[] arr){
-        int temp = 0;
+public class findFrequnecyOfArray {
+    static void findRepeatingNumbers(int[] arr){
         int[] list = new int[arr.length];
-        for(int i = 0; i < arr.length; i++){
-            for(int j = i + 1; j < arr.length; j++){
-                if(arr[i] > arr[j]){
-                    temp = arr[i];
-                    arr[i] = arr[j];
-                    arr[j] = temp;
-                }
-            }
-            list[i] = arr[i];
-        }
+        
     }
     static void print(int[] arr){
+        int count = 0;
+        System.out.print("[");
         for(int i : arr){
-            System.out.print(i + " ");
+            System.out.print(i);
+            count++;
+            if(count == arr.length){
+                continue;
+            }
+            System.out.print(",");
         }
+        System.out.println("]");
     }
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
@@ -33,8 +31,8 @@ public class sortVariable {
             int variable = input.nextInt();
             list[i] = variable;
         }
-        sortArray(list);
         print(list);
+        findRepeatingNumbers(list);
         input.close();
     }
 }
